@@ -1,0 +1,2 @@
+#define SECRET_SSID "MKR1K"
+#define SECRET_PASS "12345678"
